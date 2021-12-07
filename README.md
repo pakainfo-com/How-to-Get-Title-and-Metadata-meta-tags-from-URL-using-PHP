@@ -6,4 +6,4 @@ HTML meta tags are used to provide structured metadata about an HTML document. T
 
 The following example code snippets show you how to get the title and meta tags from an external URL using PHP.
   
-[ Get Title and Metadata (meta tags) from URL using PHP ] (https://www.pakainfo.com/php-get-file-contents-data-scraping/)  
+[Get Title and Metadata (meta tags) from URL using PHP](https://www.pakainfo.com/php-get-file-contents-data-scraping/)  
